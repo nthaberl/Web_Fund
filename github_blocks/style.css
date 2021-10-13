@@ -6,7 +6,7 @@
 #container {
     background-color: rgb(225,230,235);
     width: 800px;
-    padding: 20px;
+    padding: 5px 20px 20px 20px;
 }
 
 h1 {
@@ -39,7 +39,7 @@ h1 {
     background-color: rgb(150, 134, 158);
     padding: 20px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 img.octocat {
