@@ -7,20 +7,20 @@
 }
 
 .top-nav{
-    min-height: 150px;
+    height: 150px;
     background-color: green;
     margin-bottom: 20px
 }
 
 .side-nav{
-    min-height: 300px;
+    height: 300px;
     width: 200px;
     background-color: blue;
     display: inline-block;
 }
 
 .main{
-    min-height: 400px;
+    height: 400px;
     width: 700px;
     background-color: red;
     display: inline-block;
@@ -30,7 +30,7 @@
 }
 
 .sub-content{
-    min-height: 200px;
+    height: 200px;
     width: 210px;
     background-color: yellow;
     display: inline-block;
@@ -38,7 +38,7 @@
 }
 
 #advertisement{
-    min-height: 120px;
+    height: 120px;
     width: 660px;
     background-color: purple;
     margin-top: 15px;
