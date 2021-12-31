@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 1200px;
+    padding: 40px 100px;
+}
+
+.card {
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+}
+
+.likes {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+
+#like-button{
+    background-color: gold;
+    color: black;
+    border-width: 2px;
+    border-color: black;
+    box-shadow: 5px 5px black;
+    padding: 5px 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
