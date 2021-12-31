@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.card{
+    width: 500px;
+    height: 250px;
+    border: 1px solid silver;
+    font-family: sans-serif;
+}
+
+#header{
+    background-color: rgb(64, 163, 179);
+    padding: 30px;
+}
+
+#user{
+    position: relative;
+    margin-top: -40px;
+    margin-left: 15px;
+    border: 1px solid silver;
+    border-radius: 50%;
+    padding: 2px;
+    height:70px;
+}
+
+#name{
+    align-content: flex-start;
+}
+
+.information{
+    margin-left:10px;
+    height: 200px;
+}
+
+h1{
+    font-family: sans-serif;
+    margin-left: 10px;
+    padding: 0px;
+    align-content: flex-start;
+}
+
+.location{
+    font-family: sans-serif;
+    display: flex;
+    margin:0px;
+    align-items: center;
+}
+
+#seattle{
+    font-size:16px;
+    margin: 5px;
+    align-content: center;
+    font-weight: bold;
+}
+
+#marker{
+    height: 15px;
+    padding-right: 5px;
+}
+
+.description{
+    padding: 0px;
+    margin: 10px 0px 10px;
+}
+
+p{
+    font-size: 14px;
+    margin: 0px 0px 5px;
+    padding:0px;
+}
+
+#gear{
+    height: 15px;
+}
+
+a{
+    font-size: 14px;
+}
